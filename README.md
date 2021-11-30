@@ -17,9 +17,11 @@ HI! I’m Shubham, a full-stack developer experienced in C# and Python, currentl
 
 <p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sansquoi&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_width=500&bg_color=22272e&border_color=444c56" alt="sansquoi" /></p>
 
-<a href="https://github.com/sansquoi">
+<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansquoi&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_width=500&bg_color=22272e&border_color=444c56" alt="sansquoi" /></p>
+
+<!-- <a href="https://github.com/sansquoi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sansquoi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+</a> -->
 
 <br>
 <br>
